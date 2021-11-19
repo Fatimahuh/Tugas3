@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnSendSMS" type="id">btnSendSMS</item>
+    <item name="txtPhoneNo" type="id">087877752293</item>
+    <item name="txtMessage" type="id">test sms</item>
+</resources>
